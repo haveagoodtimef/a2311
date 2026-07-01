@@ -4,5 +4,6 @@ package com.fenghongzhang.anew
 @Retention(AnnotationRetention.RUNTIME)
 annotation class Feng(
     val value: String
+    val path: String
 )
 
